@@ -1,2 +1,2 @@
 # 10-1-johnson
-This is an academi article.
+This is an academic article.
